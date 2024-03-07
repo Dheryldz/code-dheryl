@@ -1,0 +1,24 @@
+{
+  "name": "code-dheryl",
+  "version": "1.0.3",
+  "description": "Test stopwatch npm package for codedheryl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codedheryl",
+    "dheryldz",
+    "test",
+    "demo",
+    "tea"
+  ],
+  "author": "dheryldz",
+  "license": "ISC",
+  "devDependencies": {
+    "sass-loader": "^14.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
